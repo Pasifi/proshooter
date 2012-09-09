@@ -7,7 +7,7 @@ public class player{
     private int x,y,tileX,tileY;
     
     private Image Player;
-    
+// testi paskaa
     public player(){
         
         ImageIcon img = new ImageIcon("src/res/player.png");
